@@ -19,7 +19,7 @@ Proyecto_cryptograpy/
 └── proyecto_cryptography/
     ├── app.py
     ├── archivos/
-    │   └── cifrado.txt  # Archivo cifrado generado
+        └── cifrado.txt  # Archivo cifrado generado
 ```
 
 ## 🚀 Instalación y Uso
