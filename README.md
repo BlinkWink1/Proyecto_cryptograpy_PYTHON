@@ -26,7 +26,7 @@ Proyecto_cryptograpy/
 
 ### 1️⃣ Clonar el Repositorio
 ```bash
-git clone https://github.com/tu_usuario/proyecto_cryptography.git
+git clone https://github.com/tu_usuario/Proyecto_cryptography.git
 cd proyecto_cryptography
 ```
 
